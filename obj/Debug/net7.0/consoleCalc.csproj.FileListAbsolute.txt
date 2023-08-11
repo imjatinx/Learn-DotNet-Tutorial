@@ -1,0 +1,14 @@
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/bin/Debug/net7.0/consoleCalc
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/bin/Debug/net7.0/consoleCalc.deps.json
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/bin/Debug/net7.0/consoleCalc.runtimeconfig.json
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/bin/Debug/net7.0/consoleCalc.dll
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/bin/Debug/net7.0/consoleCalc.pdb
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.AssemblyInfoInputs.cache
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.AssemblyInfo.cs
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.csproj.CoreCompileInputs.cache
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.dll
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/refint/consoleCalc.dll
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.pdb
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/consoleCalc.genruntimeconfig.cache
+/media/dell-mp2it/B-248 GB/DotNet Tuts/consoleCalc/obj/Debug/net7.0/ref/consoleCalc.dll
